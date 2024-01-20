@@ -1,4 +1,4 @@
-# RejExp
+# RegExp
 
 ***Qu'est-ce qu'une expression régulière ?❤***
 Une expression régulière est une séquence de caractères qui forme un modèle de recherche. Lorsque vous recherchez des données dans un texte, vous pouvez utiliser ce modèle de recherche pour décrire ce que vous recherchez.
